@@ -1,1 +1,1 @@
-A very much WIP CIL Valheim Character editor
+A very much WIP CLI Valheim Character editor
